@@ -37,7 +37,12 @@ margin: 0%auto;
 
 
 }
-
+h3{
+    color: rgb(194, 129, 255);
+text-align: center;
+font-family: cursive;
+margin: 0%auto;
+}
 
 .foto{
     position: fixed;
@@ -61,4 +66,14 @@ margin: 0%auto;
     color: white;
     text-decoration: none;
     border-radius: 10px;
+}
+img{
+    
+    
+    width: 200px;
+    border-radius: 10px;
+    
+    display: block;
+    margin: 0 auto;
+
 }
